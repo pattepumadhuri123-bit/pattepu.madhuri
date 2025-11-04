@@ -26,10 +26,8 @@ Even though I’m not from a technical background, I’m exploring how AI tools 
 
 ---
 
-### ⚙️ Tools & Skills  
-- Python (beginner)  
-- Google Colab & Jupyter Notebook  
-- Power BI & Excel  
+### ⚙️ Tools & Skills     
+  
 - No-Code AI Tools (like ChatGPT, Gemini, etc.)  
 - Digital Forensic Basics  
 
